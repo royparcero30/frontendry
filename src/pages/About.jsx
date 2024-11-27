@@ -47,7 +47,7 @@ const About = () => {
           <Col md={8}>
             <h4>Background</h4>
             <p>
-              I have worked with several technologies, including React, JavaScript, HTML, CSS, and various back-end technologies. I’m always eager to learn new skills and stay updated with the latest trends in web development.
+            "I've gained hands-on experience with technologies such as React, JavaScript, HTML, CSS, and various back-end frameworks. My passion for web development drives me to continuously explore new tools and stay ahead of the latest industry trends."
             </p>
 
             {/* Contact Button */}
@@ -114,7 +114,7 @@ const About = () => {
         {/* Experience Section */}
         <h4 className="mt-5">Experience</h4>
         <p style={{ fontSize: '1rem', color: '#555' }}>
-          Over the years, I've gained hands-on experience in building and deploying web applications for various industries. I’ve worked both independently and as part of a team, and I always strive to deliver high-quality work.
+        "Throughout my career, I've developed and deployed web applications across multiple industries, honing my skills in both solo projects and collaborative team environments. I’m committed to producing high-quality, impactful work that meets the needs of clients and end-users."
         </p>
       </div>
     </Container>

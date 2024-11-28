@@ -47,8 +47,7 @@ const About = () => {
           <Col md={8}>
             <h4>Background</h4>
             <p>
-            "I've gained hands-on experience with technologies such as React, JavaScript, HTML, CSS, and various back-end frameworks. My passion for web development drives me to continuously explore new tools and stay ahead of the latest industry trends."
-            </p>
+            "My dream is to become a successful front-end developer, crafting seamless, visually appealing, and user-centric web experiences. I've gained hands-on experience with technologies like React, JavaScript, HTML, CSS, and various frontend frameworks, which fuel my passion for creating innovative interfaces. I am committed to continuous learning, staying updated on the latest industry trends, and refining my skills to excel in building dynamic, responsive websites. This dedication drives me to transform ideas into impactful, interactive digital experiences that leave a lasting impression."            </p>
 
             {/* Contact Button */}
             <Button
@@ -67,55 +66,10 @@ const About = () => {
           </Col>
         </Row>
 
-        {/* Skills Section */}
-        <h4 className="mt-5">Skills</h4>
-        <Row>
-          <Col md={4}>
-            <Card>
-              <Card.Body>
-                <Card.Title>Frontend Development</Card.Title>
-                <ListGroup variant="flush">
-                  <ListGroup.Item>React</ListGroup.Item>
-                  <ListGroup.Item>JavaScript</ListGroup.Item>
-                  <ListGroup.Item>HTML5 & CSS3</ListGroup.Item>
-                  <ListGroup.Item>Bootstrap</ListGroup.Item>
-                </ListGroup>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col md={4}>
-            <Card>
-              <Card.Body>
-                <Card.Title>Backend Development</Card.Title>
-                <ListGroup variant="flush">
-                  <ListGroup.Item>Node.js</ListGroup.Item>
-                  <ListGroup.Item>Express</ListGroup.Item>
-                  <ListGroup.Item>MongoDB</ListGroup.Item>
-                  <ListGroup.Item>SQL</ListGroup.Item>
-                </ListGroup>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col md={4}>
-            <Card>
-              <Card.Body>
-                <Card.Title>Tools & Other Skills</Card.Title>
-                <ListGroup variant="flush">
-                  <ListGroup.Item>Git & GitHub</ListGroup.Item>
-                  <ListGroup.Item>APIs</ListGroup.Item>
-                  <ListGroup.Item>Responsive Design</ListGroup.Item>
-                  <ListGroup.Item>UI/UX Design</ListGroup.Item>
-                </ListGroup>
-              </Card.Body>
-            </Card>
-          </Col>
-        </Row>
-
         {/* Experience Section */}
         <h4 className="mt-5">Experience</h4>
         <p style={{ fontSize: '1rem', color: '#555' }}>
-        "Throughout my career, I've developed and deployed web applications across multiple industries, honing my skills in both solo projects and collaborative team environments. I’m committed to producing high-quality, impactful work that meets the needs of clients and end-users."
-        </p>
+        I've been developing my foundational knowledge of web development through a variety of projects that have made me more aware of the importance of industrial needs and user or consumer usability. My goal is to become a proficient developer who can solve real-world issues with highly interactive, user-friendly software. I'm willing to keep becoming better by picking up new skills and expanding my technical knowledge while collaborating with others to bring fantastic ideas to life.        </p>
       </div>
     </Container>
   );

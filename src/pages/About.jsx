@@ -56,7 +56,7 @@ const About = () => {
               size="lg"
               className="mt-3"
               style={{
-                backgroundColor: '#28a745', // Green color for button
+                backgroundColor: '#28a745', // black color for button
                 borderColor: '#28a745',
                 color: 'white',
               }}

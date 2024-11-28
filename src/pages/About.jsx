@@ -45,7 +45,7 @@ const About = () => {
             />
           </Col>
           <Col md={8}>
-            <h4>Background</h4>
+            <h4>Dreams</h4>
             <p>
             "My dream is to become a successful front-end developer, crafting seamless, visually appealing, and user-centric web experiences. I've gained hands-on experience with technologies like React, JavaScript, HTML, CSS, and various frontend frameworks, which fuel my passion for creating innovative interfaces. I am committed to continuous learning, staying updated on the latest industry trends, and refining my skills to excel in building dynamic, responsive websites. This dedication drives me to transform ideas into impactful, interactive digital experiences that leave a lasting impression."            </p>
 
@@ -67,7 +67,7 @@ const About = () => {
         </Row>
 
         {/* Experience Section */}
-        <h4 className="mt-5">Experience</h4>
+        <h4 className="mt-5">LEARNING</h4>
         <p style={{ fontSize: '1rem', color: '#555' }}>
         I've been developing my foundational knowledge of web development through a variety of projects that have made me more aware of the importance of industrial needs and user or consumer usability. My goal is to become a proficient developer who can solve real-world issues with highly interactive, user-friendly software. I'm willing to keep becoming better by picking up new skills and expanding my technical knowledge while collaborating with others to bring fantastic ideas to life.        </p>
       </div>

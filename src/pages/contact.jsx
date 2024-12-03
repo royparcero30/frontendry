@@ -24,7 +24,7 @@ const Contact = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#001f3f', // Dark blue background
+        backgroundColor: '#333333', // Dark gray background
         color: '#ffffff', // Light text for contrast
         textAlign: 'center',
       }}

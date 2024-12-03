@@ -10,8 +10,8 @@ const About = () => {
       fluid
       className="text-center py-5"
       style={{
-        backgroundColor: '#F0E68C',  // Khaki background color
-        color: '#333',  // Dark text color for contrast
+        backgroundColor: '#333333', // Dark gray background color
+        color: '#FFF', // White text for contrast
         minHeight: '100vh',
         display: 'flex',
         alignItems: 'center',
@@ -21,7 +21,7 @@ const About = () => {
     >
       <div
         style={{
-          border: '2px solid rgba(0, 0, 0, 0.1)',
+          border: '2px solid rgba(255, 255, 255, 0.1)',
           padding: '40px',
           borderRadius: '15px',
           backgroundColor: 'white',
@@ -47,7 +47,8 @@ const About = () => {
           <Col md={8}>
             <h4>Dreams</h4>
             <p>
-            "My dream is to become a successful front-end developer, crafting seamless, visually appealing, and user-centric web experiences. I've gained hands-on experience with technologies like React, JavaScript, HTML, CSS, and various frontend frameworks, which fuel my passion for creating innovative interfaces. I am committed to continuous learning, staying updated on the latest industry trends, and refining my skills to excel in building dynamic, responsive websites. This dedication drives me to transform ideas into impactful, interactive digital experiences that leave a lasting impression."            </p>
+              "My dream is to become a successful front-end developer, crafting seamless, visually appealing, and user-centric web experiences. I've gained hands-on experience with technologies like React, JavaScript, HTML, CSS, and various frontend frameworks, which fuel my passion for creating innovative interfaces. I am committed to continuous learning, staying updated on the latest industry trends, and refining my skills to excel in building dynamic, responsive websites. This dedication drives me to transform ideas into impactful, interactive digital experiences that leave a lasting impression."
+            </p>
 
             {/* Contact Button */}
             <Button
@@ -56,7 +57,7 @@ const About = () => {
               size="lg"
               className="mt-3"
               style={{
-                backgroundColor: '#28a745', // black color for button
+                backgroundColor: '#28a745', // Green color for button
                 borderColor: '#28a745',
                 color: 'white',
               }}
@@ -69,7 +70,8 @@ const About = () => {
         {/* Experience Section */}
         <h4 className="mt-5">LEARNING</h4>
         <p style={{ fontSize: '1rem', color: '#555' }}>
-        I've been developing my foundational knowledge of web development through a variety of projects that have made me more aware of the importance of industrial needs and user or consumer usability. My goal is to become a proficient developer who can solve real-world issues with highly interactive, user-friendly software. I'm willing to keep becoming better by picking up new skills and expanding my technical knowledge while collaborating with others to bring fantastic ideas to life.        </p>
+          I've been developing my foundational knowledge of web development through a variety of projects that have made me more aware of the importance of industrial needs and user or consumer usability. My goal is to become a proficient developer who can solve real-world issues with highly interactive, user-friendly software. I'm willing to keep becoming better by picking up new skills and expanding my technical knowledge while collaborating with others to bring fantastic ideas to life.
+        </p>
       </div>
     </Container>
   );

@@ -7,7 +7,7 @@ const Educ = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#4e342e', // Dark brown background color
+        backgroundColor: '#333333', // Dark gray background color
         color: '#f9f9f9', // Light text color for contrast
         textAlign: 'center',
         fontFamily: "'Roboto', sans-serif", // Clean, modern font

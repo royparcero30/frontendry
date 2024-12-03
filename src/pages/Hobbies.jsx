@@ -7,7 +7,7 @@ const Hobbies = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#013220', // Dark green background
+        backgroundColor: '#2C3E50', // Dark gray background
         color: '#f9f9f9', // Light text for contrast
         textAlign: 'center',
         fontFamily: "'Roboto', sans-serif",
@@ -33,7 +33,7 @@ const Hobbies = () => {
             className="h-100 shadow"
             style={{
               borderRadius: '15px',
-              backgroundColor: '#1b5e20', // Complementary green for the cards
+              backgroundColor: '#34495E', // Slightly lighter gray for the cards
               color: '#f9f9f9',
             }}
           >
@@ -64,7 +64,7 @@ const Hobbies = () => {
             className="h-100 shadow"
             style={{
               borderRadius: '15px',
-              backgroundColor: '#1b5e20',
+              backgroundColor: '#34495E',
               color: '#f9f9f9',
             }}
           >
@@ -95,7 +95,7 @@ const Hobbies = () => {
             className="h-100 shadow"
             style={{
               borderRadius: '15px',
-              backgroundColor: '#1b5e20',
+              backgroundColor: '#34495E',
               color: '#f9f9f9',
             }}
           >
@@ -126,7 +126,7 @@ const Hobbies = () => {
         className="text-center mt-5"
         style={{
           backgroundColor: '#ffc107', // Yellow footer background
-          color: '#013220', // Dark green text for contrast
+          color: '#2C3E50', // Dark gray text for contrast
           padding: '20px',
           borderRadius: '10px',
         }}

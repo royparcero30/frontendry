@@ -9,7 +9,7 @@ const Home = () => {
         fluid
         className="text-center py-5"
         style={{
-          backgroundColor: '#2C3E50', // Dark Gray Background
+          backgroundColor: '#333333', // Dark Gray Background
           color: 'white',
           minHeight: '100vh',
           display: 'flex',

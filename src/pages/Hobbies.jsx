@@ -7,7 +7,7 @@ const Hobbies = () => {
       fluid
       className="py-5"
       style={{
-        backgroundColor: '#2C3E50', // Dark gray background
+        backgroundColor: '#333333', // Dark gray background
         color: '#f9f9f9', // Light text for contrast
         textAlign: 'center',
         fontFamily: "'Roboto', sans-serif",

@@ -59,7 +59,7 @@ const About = () => {
               style={{
                 backgroundColor: '#28a745', // Green color for button
                 borderColor: '#28a745',
-                color: 'white',
+                color: 'navy blue',
               }}
             >
               Contact Me

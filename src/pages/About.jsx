@@ -31,7 +31,7 @@ const About = () => {
         }}
       >
         <h1>About Me</h1>
-        <p style={{ fontSize: '1.2rem', color: '#555' }}>
+        <p style={{ fontSize: '1.2rem', color: '#FFF' }}>
           My name is Roy Parcero. I’m a passionate developer with a love for creating impactful web experiences. With a strong foundation in front-end development, I aim to make the web a better place through elegant and user-friendly designs.
         </p>
 
@@ -69,7 +69,7 @@ const About = () => {
 
         {/* Experience Section */}
         <h4 className="mt-5">LEARNING</h4>
-        <p style={{ fontSize: '1rem', color: '#555' }}>
+        <p style={{ fontSize: '1rem', color: '#FFF' }}>
           I've been developing my foundational knowledge of web development through a variety of projects that have made me more aware of the importance of industrial needs and user or consumer usability. My goal is to become a proficient developer who can solve real-world issues with highly interactive, user-friendly software. I'm willing to keep becoming better by picking up new skills and expanding my technical knowledge while collaborating with others to bring fantastic ideas to life.
         </p>
       </div>

@@ -24,7 +24,7 @@ const About = () => {
           border: '2px solid rgba(255, 255, 255, 0.1)',
           padding: '40px',
           borderRadius: '15px',
-          backgroundColor: 'navy blue',
+          backgroundColor: 'darkblue',
           boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
           maxWidth: '900px',
           width: '100%',
